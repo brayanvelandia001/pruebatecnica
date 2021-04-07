@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061020198222",
+    "project_id": "pruebafinal-bdac5",
+    "storage_bucket": "pruebafinal-bdac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061020198222:android:bb3d3e1b006c836f04ea1f",
+        "android_client_info": {
+          "package_name": "com.example.apppruebatecnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061020198222-suqautssm5pn3re7edukqqnrmd4kppl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AxmM0YuCguTK689-Kvl-HQJlG-g2zow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061020198222-suqautssm5pn3re7edukqqnrmd4kppl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
